@@ -1,2 +1,3 @@
 0-hello_world display on the standard output
 1-confused_smiley file is for special char
+2-hellofile file display content of this path /etc/passwd
